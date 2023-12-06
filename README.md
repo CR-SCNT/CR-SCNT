@@ -1,5 +1,5 @@
 -  Hi, I’m @CR-SCNT
--  currently studying in SJTU
+-  currently studying in SJTU as an undergraduate
 -  still a noob
 
 <!---
